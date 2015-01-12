@@ -1,27 +1,151 @@
 	Babylon.js Exporter version: 1.5.0, Blender version: 2.72 (sub 0)
 ========= Conversion from Blender to Babylon.js =========
 	Python World class constructor completed
-	processing begun of material:  scene.Material.001
+	processing begun of material:  scene.default
 	Diffuse texture found
-Error encountered processing image file:  /Users/jesseolsson/egypt/scene/plane.png, Error:  '/Users/jesseolsson/egypt/scene/plane.png' and '/Users/jesseolsson/egypt/scene/plane.png' are the same file
-	processing begun of material:  scene.Material.002
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/ground.png, Error:  '/Users/jesseolsson/egypt/scene/ground.png' and '/Users/jesseolsson/egypt/scene/ground.png' are the same file
+	Bump texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/ground_NRM.png, Error:  '/Users/jesseolsson/egypt/scene/ground_NRM.png' and '/Users/jesseolsson/egypt/scene/ground_NRM.png' are the same file
+	processing begun of material:  scene.default.001
 	Diffuse texture found
-Error encountered processing image file:  /Users/jesseolsson/egypt/scene/cylinder.png, Error:  '/Users/jesseolsson/egypt/scene/cylinder.png' and '/Users/jesseolsson/egypt/scene/cylinder.png' are the same file
-	processing begun of mesh:  Cylinder
-		num positions      :  338
-		num normals        :  338
-		num uvs            :  676
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  372
-	processing begun of mesh:  Plane
-		num positions      :  4
-		num normals        :  4
-		num uvs            :  8
-		num uvs2           :  0
-		num colors         :  0
-		num indices        :  6
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b1.png, Error:  '/Users/jesseolsson/egypt/scene/b1.png' and '/Users/jesseolsson/egypt/scene/b1.png' are the same file
+	Bump texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b1_NRM.png, Error:  '/Users/jesseolsson/egypt/scene/b1_NRM.png' and '/Users/jesseolsson/egypt/scene/b1_NRM.png' are the same file
+	processing begun of material:  scene.default.002
+	Diffuse texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b2.png, Error:  '/Users/jesseolsson/egypt/scene/b2.png' and '/Users/jesseolsson/egypt/scene/b2.png' are the same file
+	Bump texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b2_NRM.png, Error:  '/Users/jesseolsson/egypt/scene/b2_NRM.png' and '/Users/jesseolsson/egypt/scene/b2_NRM.png' are the same file
+	processing begun of material:  scene.default.003
+	Diffuse texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b3.png, Error:  '/Users/jesseolsson/egypt/scene/b3.png' and '/Users/jesseolsson/egypt/scene/b3.png' are the same file
+	Bump texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b3_NRM.png, Error:  '/Users/jesseolsson/egypt/scene/b3_NRM.png' and '/Users/jesseolsson/egypt/scene/b3_NRM.png' are the same file
+	processing begun of material:  scene.default.004
+	Diffuse texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b4.png, Error:  '/Users/jesseolsson/egypt/scene/b4.png' and '/Users/jesseolsson/egypt/scene/b4.png' are the same file
+	Bump texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b4_NRM.png, Error:  '/Users/jesseolsson/egypt/scene/b4_NRM.png' and '/Users/jesseolsson/egypt/scene/b4_NRM.png' are the same file
+	processing begun of material:  scene.default.005
+	Diffuse texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b5.png, Error:  '/Users/jesseolsson/egypt/scene/b5.png' and '/Users/jesseolsson/egypt/scene/b5.png' are the same file
+	Bump texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b5_NRM.png, Error:  '/Users/jesseolsson/egypt/scene/b5_NRM.png' and '/Users/jesseolsson/egypt/scene/b5_NRM.png' are the same file
+	processing begun of material:  scene.default.006
+	Diffuse texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b6.png, Error:  '/Users/jesseolsson/egypt/scene/b6.png' and '/Users/jesseolsson/egypt/scene/b6.png' are the same file
+	Bump texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b6_NRM.png, Error:  '/Users/jesseolsson/egypt/scene/b6_NRM.png' and '/Users/jesseolsson/egypt/scene/b6_NRM.png' are the same file
+	processing begun of material:  scene.default.007
+	Diffuse texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b7.png, Error:  '/Users/jesseolsson/egypt/scene/b7.png' and '/Users/jesseolsson/egypt/scene/b7.png' are the same file
+	Bump texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b7_NRM.png, Error:  '/Users/jesseolsson/egypt/scene/b7_NRM.png' and '/Users/jesseolsson/egypt/scene/b7_NRM.png' are the same file
+	processing begun of material:  scene.default.008
+	Diffuse texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b8.png, Error:  '/Users/jesseolsson/egypt/scene/b8.png' and '/Users/jesseolsson/egypt/scene/b8.png' are the same file
+	Bump texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b8_NRM.png, Error:  '/Users/jesseolsson/egypt/scene/b8_NRM.png' and '/Users/jesseolsson/egypt/scene/b8_NRM.png' are the same file
+	processing begun of material:  scene.default.009
+	Diffuse texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b9.png, Error:  '/Users/jesseolsson/egypt/scene/b9.png' and '/Users/jesseolsson/egypt/scene/b9.png' are the same file
+	Bump texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b9_NRM.png, Error:  '/Users/jesseolsson/egypt/scene/b9_NRM.png' and '/Users/jesseolsson/egypt/scene/b9_NRM.png' are the same file
+	processing begun of material:  scene.default.010
+	Diffuse texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b10.png, Error:  '/Users/jesseolsson/egypt/scene/b10.png' and '/Users/jesseolsson/egypt/scene/b10.png' are the same file
+	Bump texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/b10_NRM.png, Error:  '/Users/jesseolsson/egypt/scene/b10_NRM.png' and '/Users/jesseolsson/egypt/scene/b10_NRM.png' are the same file
 	processing begun of camera (FreeCamera):  Camera
+	processing begun of mesh:  Cube.009
+		num positions      :  325
+		num normals        :  325
+		num uvs            :  650
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+		WARNING: # of 0 area faces found:  24
+	processing begun of mesh:  Cube.008
+		num positions      :  353
+		num normals        :  353
+		num uvs            :  706
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  402
+		WARNING: # of 0 area faces found:  11
+	processing begun of mesh:  Cube.007
+		num positions      :  353
+		num normals        :  353
+		num uvs            :  706
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  402
+		WARNING: # of 0 area faces found:  11
+	processing begun of mesh:  Cube.006
+		num positions      :  353
+		num normals        :  353
+		num uvs            :  706
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  402
+		WARNING: # of 0 area faces found:  11
+	processing begun of mesh:  Cube.005
+		num positions      :  353
+		num normals        :  353
+		num uvs            :  706
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  402
+		WARNING: # of 0 area faces found:  11
+	processing begun of mesh:  Cube.003
+		num positions      :  325
+		num normals        :  325
+		num uvs            :  650
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+		WARNING: # of 0 area faces found:  24
+	processing begun of mesh:  Cube.002
+		num positions      :  325
+		num normals        :  325
+		num uvs            :  650
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+		WARNING: # of 0 area faces found:  24
+	processing begun of mesh:  Cube.001
+		num positions      :  325
+		num normals        :  325
+		num uvs            :  650
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+		WARNING: # of 0 area faces found:  24
+	processing begun of mesh:  Cube.004
+		num positions      :  325
+		num normals        :  325
+		num uvs            :  650
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  360
+		WARNING: # of 0 area faces found:  24
+	processing begun of mesh:  Cube
+		num positions      :  353
+		num normals        :  353
+		num uvs            :  706
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  402
+		WARNING: # of 0 area faces found:  11
+	processing begun of mesh:  Plane
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  30
+	processing begun of light (SUN):  Sun
+	processing begun of light (HEMI):  Hemi
 ========= Writing of scene file started =========
 ========= Writing of scene file completed =========
 ========= end of processing =========

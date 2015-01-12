@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
     skybox.material.reflectionTexture.coordinatesMode = BABYLON.Texture.SKYBOX_MODE
     skybox.rotation = new BABYLON.Vector3(3.14159265, 0, 0)
     scene.activeCamera.attachControl(canvas)
+    scene.activeCamera.speed = .2
 
     window.addEventListener('resize', function() {
       engine.resize()
