@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
   var canvas = document.querySelector('canvas')
   var engine = new BABYLON.Engine(canvas, true)
 
-  BABYLON.SceneLoader.Load('', '../scene/scene.babylon', engine, function(scene) {
+  BABYLON.SceneLoader.Load('../scene/', 'scene.babylon', engine, function(scene) {
     var skybox = BABYLON.Mesh.CreateBox('skybox', 100, scene)
     skybox.material = new BABYLON.StandardMaterial('skybox', scene)
     skybox.material.backFaceCulling = false

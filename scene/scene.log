@@ -2,23 +2,26 @@
 ========= Conversion from Blender to Babylon.js =========
 	Python World class constructor completed
 	processing begun of material:  scene.Material.001
+	Diffuse texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/plane.png, Error:  '/Users/jesseolsson/egypt/scene/plane.png' and '/Users/jesseolsson/egypt/scene/plane.png' are the same file
 	processing begun of material:  scene.Material.002
+	Diffuse texture found
+Error encountered processing image file:  /Users/jesseolsson/egypt/scene/cylinder.png, Error:  '/Users/jesseolsson/egypt/scene/cylinder.png' and '/Users/jesseolsson/egypt/scene/cylinder.png' are the same file
 	processing begun of mesh:  Cylinder
-		num positions      :  64
-		num normals        :  64
-		num uvs            :  0
+		num positions      :  338
+		num normals        :  338
+		num uvs            :  676
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  372
 	processing begun of mesh:  Plane
 		num positions      :  4
 		num normals        :  4
-		num uvs            :  0
+		num uvs            :  8
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  6
 	processing begun of camera (FreeCamera):  Camera
-	processing begun of light (POINT):  Point
 ========= Writing of scene file started =========
 ========= Writing of scene file completed =========
 ========= end of processing =========
