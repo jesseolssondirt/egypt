@@ -1,0 +1,24 @@
+	Babylon.js Exporter version: 1.5.0, Blender version: 2.72 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	processing begun of material:  scene.Material.001
+	processing begun of material:  scene.Material.002
+	processing begun of mesh:  Cylinder
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Plane
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of camera (FreeCamera):  Camera
+	processing begun of light (POINT):  Point
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
